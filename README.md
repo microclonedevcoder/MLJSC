@@ -1,4 +1,4 @@
-# MLJSC (My Life JS Code)
+# My Life JavaScript Code
 I will make a number of programs using javascript in the form of :
 - Web Site
 - Android Application

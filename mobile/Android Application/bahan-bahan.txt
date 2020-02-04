@@ -1,0 +1,6 @@
+React Native
+Ionic
+NativeScript
+Firebase
+Node.JS
+Socket.IO

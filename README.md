@@ -1,4 +1,4 @@
-# My Life JavaScript Code
+# My Life JavaScript Code Now
 I will make a number of programs using javascript in the form of :
 - Web Site
 - Android Application

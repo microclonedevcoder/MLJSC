@@ -1,4 +1,5 @@
 # My Life JavaScript Code Now
+[![MicroClone: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 I will make a number of programs using javascript in the form of :
 - Web Site
 - Android Application
